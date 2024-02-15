@@ -1,9 +1,5 @@
 # Revenue Analysis using Stocks
 
-![Image 1](newplot (1).png)
-
-![Image 2](newplot (2).png)
-
 ![alt text](https://github.com/rzn1337/stock_analysis/blob/main/tesla_plot.png?raw=true)
 
 ![alt text](https://github.com/rzn1337/stock_analysis/blob/main/gamestop_plot.png?raw=true)
